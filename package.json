@@ -1,0 +1,25 @@
+{
+  "name": "du-an-vu-tru-frontend",
+  "version": "1.0.0",
+  "description": "Ứng dụng quản lý ô nhiễm không khí tại Việt Nam",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/du-an-vu-tru-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
